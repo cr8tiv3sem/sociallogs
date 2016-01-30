@@ -6,8 +6,45 @@ Version:1.1
 */
 
 
-body. {
+body {
        
         Font-family:
         Font-size:
         Color :
+}
+
+A:link,
+A:visited { 
+   Color:  
+}
+
+
+
+P {
+Line-height:   em;  }
+
+/*  General  Layout */
+Div.container {
+    Max-width::   ;
+     Margin: 0 auto;
+    Padding-left: 20px    ;
+    Padding-right:  20px ;
+
+Article.post : { 
+ 
+}
+
+*/ Header */
+.site-header {
+Border-bottom:
+}
+*/ Footer */
+.site footer {
+Margin-top:
+Border-top:
+
+*/ Menu */
+
+
+
+}
