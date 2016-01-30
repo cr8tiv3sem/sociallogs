@@ -3,11 +3,11 @@
 
    <p><?php bloginfo('name'); ?>- &copy; <?php echo date( 'Y')
 
+  </div><!-- container -->
 
+       <? Wp_foot(); ?>
 
-<? Wp_foot(); ?>
-
-
+   
  </body>
 
   </HTML>
